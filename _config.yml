@@ -1,0 +1,74 @@
+# Site
+#repository: sproogen/resume-theme
+#favicon: images/favicon.ico
+
+# Personal info
+name: Amy Natasha Atahar
+title: Junior Data Scientist | Aspiring Data Scientist
+email: amynatasha25@gmail.com
+#website: [your website] (optional)
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+twitter_username: amynatasha.atahar
+github_username:  amynatasha-atahar
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: amynatasha.atahar
+linkedin_username: amynatasha-atahar
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: "images/profile.jpg"
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Amy Natasha and I am a junior data scientist. Currently, pursuing Master of Science in Data Science and Analytics at Universiti Sains Malaysia and expecting to be graduated this year, 2020. I had two years experience in this field and a former data scientist intern at Keysight Technologies (Malaysia) Sdn. Bhd.
+  I mostly do my project for data analytics which related to machine learning model using <mark>Python</mark>.Also, experienced in using <mark>Spotfire Tibco Analyst</mark> and <mark>Tableau</mark> for data visualisation to create analytics dashboard.
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in data analysis my other interests and hobbies are:
+   - Learning
+   - Traveling
+   - Sports
+   - Team activities
+   - Volunteering activities
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

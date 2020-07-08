@@ -1,0 +1,10 @@
+# Experience template
+- layout: left
+  company: Keysight Technologies (Malaysia) Sdn. Bhd.
+  link: https://www.keysight.com/my/en/about.html
+  job_title: Data Science Intern
+  dates: February 2020 - June 2020
+  description: | # this will include new lines to allow paragraphs
+    Assisted in developing anomaly detection models to identify unusual patterns occured during calibration then bulding anomaly prediction models to predict unusual patterns of new incoming data. 
+    
+    Also, assisted in preparing ad-hoc report and creating automate report on Spotfire Tibco Analyst dashboard for internal users.
